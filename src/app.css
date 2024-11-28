@@ -1,0 +1,9 @@
+/*  */
+/* https://github.com/argyleink/open-props/tree/main/src */
+@import "open-props/style";
+@import "open-props/normalize";
+@import "open-props/brand-colors";
+
+body {
+  background: var(--brand-google-green);
+}
